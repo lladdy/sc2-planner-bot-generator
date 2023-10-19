@@ -50,7 +50,7 @@ Please feel free to take this code and improve it for your own needs. Pull reque
 
 
 ## Run your own build
-1. Go to [sc2-panner](https://burnysc2.github.io/sc2-planner/).
+1. Go to [sc2-planner](https://burnysc2.github.io/sc2-planner/).
 2. Create a build order. _Note that sharpy-sc2 needs at least one worker unit in the build order to correctly identify the race._
 3. Click "Export", "Copy SC2 bot instructions".
 4. Paste the instructions into a file, e.g. `build_order.json`.
